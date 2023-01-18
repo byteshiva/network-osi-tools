@@ -1,4 +1,7 @@
 
+Note: 
+The below code is only for educational purpose. 
+
 Step 1: 
 By running this on remote machine, it gives grants access to remote-ip mentioned in `access-remote-machine.py`
 ```
