@@ -1,3 +1,6 @@
+# Note: The below code is only for educational purpose and should not be used for malicious purposes, as it could be considered illegal and unethical.
+
+
 import socket
 import subprocess
 
